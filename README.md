@@ -11,6 +11,8 @@ Our goal for this project is to apply all the knowledge learned during the WAD c
 
  - Main page: <img src="https://i.imgur.com/pClNdKn.png">
 
+ - Movie info page: <img src="https://i.imgur.com/R5WrOVN.png">
+
  - Sign in page: <img src="https://i.imgur.com/3HUc3Ul.png">
 
  - Sign up page: <img src="https://i.imgur.com/mrWWXs9.png">
@@ -18,6 +20,11 @@ Our goal for this project is to apply all the knowledge learned during the WAD c
  - Seat booking page: <img src="https://i.imgur.com/N5jwyW3.png">
 
  - Booking Result:<img src="https://i.imgur.com/ELMDN2p.png">
+
+ - Admin Page:
+    - For adding/updating/delete movies:<img src="https://i.imgur.com/dAthmeG.png">
+    - For viewing movie list:<img src="https://i.imgur.com/xuQ2zzZ.png">
+    - For managing accounts:<img src="https://i.imgur.com/jpzRLLv.png">
 
 <h3>Not Complete:</h3>
 
