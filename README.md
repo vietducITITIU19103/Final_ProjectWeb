@@ -74,8 +74,8 @@ Clone this repository locally. In a terminal, run the following command:
 
 ## Contributors
 
-|                Links                          |       Name         |  Student ID | Contribution % |
-|:---------------------------------------------:|:------------------:|:-----------:|:--------------:|
+|       Name         |  Student ID | Contribution % |
+|:-------------------:|:-----------:|:--------------:|
 |<a href="https://github.com/vietducITITIU19103">Nguyễn Việt Đức</a> | ITITIU19103 |       34       |
 |<a href="https://github.com/dinhvuduc">         Đinh Vũ Đức    </a> | ITITIU19104 |       33       |
 |<a href="https://github.com/nhathuy19135/">     Nguyễn Nhật Huy</a> | ITITIU19135 |       33       |
