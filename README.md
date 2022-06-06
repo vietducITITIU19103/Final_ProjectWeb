@@ -78,6 +78,10 @@ Our goal for this project is to apply all the knowledge learned during the WAD c
 
 ## Installation
 Clone this repository locally. In a terminal, run the following command:
+```
+npm start
+```
+to run the project.
 
 ## Contributors
 
