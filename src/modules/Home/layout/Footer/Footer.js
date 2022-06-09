@@ -84,7 +84,7 @@ const Footer = () => {
           <div className="flex justify-center pt-4 space-x-4 lg:pt-0 lg:col-end-13">
             <a
               rel="noopener noreferrer"
-              href="https://www.linkedin.com/in/ho%C3%A0ng-d%C5%A9ng-tr%C6%B0%C6%A1ng-a40a86185/?challengeId=AQGWDhutL8KbRAAAAYCAfD9KWBBk7aGxKk93Zkw-RskfX2fb5PZhE-Izq0mZ4qdeTirIFjPf5Cnnvp0x0GReobm7yHvR7m7huw&submissionId=01605bc6-8708-eb16-a179-1a12b330b561"
+              href=""
               target="_blank"
               title="LinkedIn"
               className="flex items-center justify-center w-10 h-10 rounded-full dark:bg-violet-400 dark:text-coolGray-900"
@@ -93,7 +93,7 @@ const Footer = () => {
             </a>
             <a
               rel="noopener noreferrer"
-              href="https://www.facebook.com/dung.hoangtruong.5/"
+              href=""
               target="_blank"
               title="FaceBook"
               className="flex items-center justify-center w-10 h-10 rounded-full dark:bg-violet-400 dark:text-coolGray-900"
@@ -102,7 +102,7 @@ const Footer = () => {
             </a>
             <a
               rel="noopener noreferrer"
-              href="https://github.com/thdungwithbugs"
+              href=""
               target="_blank"
               title="GitHub"
               className="flex items-center justify-center w-10 h-10 rounded-full dark:bg-violet-400 dark:text-coolGray-900"
