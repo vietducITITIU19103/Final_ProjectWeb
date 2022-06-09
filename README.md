@@ -77,7 +77,25 @@ Our goal for this project is to apply all the knowledge learned during the WAD c
   - CSS-in-JS: styled-component/@emotion
 
 ## Installation
-Clone this repository locally. In a terminal, run the following command:
+Clone this repository locally.
+- Method 1: using Git
+
+In a terminal, type in the following command to clone the project:
+```
+git clone https://github.com/vietducITITIU19103/Final_ProjectWeb 
+```
+ After that, change directory to project's folder via this command:
+``` 
+cd Final_ProjectWeb
+```
+Finally, run the following command to start the project:
+```
+npm start
+```
+
+- Method 2: by downloading the project as .zip
+
+Extract the zipped files. Use any IDE of your choice, open the extracted folder as project(or workspace). In your IDE terminal, run the following command to start the project:
 ```
 npm start
 ```
