@@ -6,6 +6,17 @@
 ## Motivation
 Our goal for this project is to apply all the knowledge learned during the WAD course, and recreate a movie ticket booking web application.
 
+## Contributors
+
+|       Name         |  Student ID | Contribution % |
+|:-------------------:|:-----------:|:--------------:|
+|<a href="https://github.com/vietducITITIU19103">Nguyễn Việt Đức</a> | ITITIU19103 |       34       |
+|<a href="https://github.com/dinhvuduc">         Đinh Vũ Đức    </a> | ITITIU19104 |       33       |
+|<a href="https://github.com/nhathuy19135/">     Nguyễn Nhật Huy</a> | ITITIU19135 |       33       |
+
+## Flowchart Diagram
+<img src="https://i.imgur.com/FDlobw0.png" alt="Flow chart diagram">
+
 ## Features
 <h3>Complete:</h3>
 
@@ -100,14 +111,3 @@ Extract the zipped files. Use any IDE of your choice, open the extracted folder 
 npm start
 ```
 to run the project.
-
-## Contributors
-
-|       Name         |  Student ID | Contribution % |
-|:-------------------:|:-----------:|:--------------:|
-|<a href="https://github.com/vietducITITIU19103">Nguyễn Việt Đức</a> | ITITIU19103 |       34       |
-|<a href="https://github.com/dinhvuduc">         Đinh Vũ Đức    </a> | ITITIU19104 |       33       |
-|<a href="https://github.com/nhathuy19135/">     Nguyễn Nhật Huy</a> | ITITIU19135 |       33       |
-
-## Flowchart Diagram
-<img src="https://i.imgur.com/FDlobw0.png" alt="Flow chart diagram">
